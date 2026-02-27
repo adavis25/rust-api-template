@@ -1,4 +1,4 @@
-# rust-api-gateway-template
+# rust-api-template
 
 A reusable, production-ready Rust API Gateway template built with **Axum**, **Tokio**, and **code-first OpenAPI**.
 
